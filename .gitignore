@@ -1,3 +1,4 @@
 .env
 *.csv
 *.h5
+/training_1
